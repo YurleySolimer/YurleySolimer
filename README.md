@@ -1,10 +1,13 @@
 ### Hi I'm Yurley Solimer👋
 
-I'm a Systems Engineer with a focus on web development. I have developed many projects in college and in the work environment, I have been freelancing for more than four years, I'm also co-founder of We Grow, a software agency. Thanks to this experience, I have strong Front-end and Back-end knowledge.
+Hi, I’m Yurley Solimer. I'm a Systems Engineer focused on develop digital products with over 5+ years of experience in a wide range of disciplines: manager, leader, entrepreneur, web developer, analyst, testing, and more.
 
-With Back-end, my strongest area is database design, implementation and management.
+I have experience designing and developing UX/UI for different software applications, like web, mobile, and desktop and also, creating databases, from ERE to SQL management.  
 
-I have solid knowledge of the MERN stack (Mongo DB, Express, React and Node JS).
+Since beginning my journey as a freelance nearly five years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use.
+
+I like to keep learning, continue challenging myself and do interesting things to create a best world.
+
 
 <!--
 **YurleySolimer/YurleySolimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
