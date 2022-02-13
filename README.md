@@ -4,7 +4,7 @@
 
 ### Hi I'm Yurley Solimer👋
 
-Hi, I’m Yurley Solimer. I'm a Systems Engineer focused on develop digital products with experience in a wide range of disciplines: manager, leader, entrepreneur, web developer, analyst, testing, and more.
+Hi, I’m Yurley Solimer. I'm a Systems Engineer focused on develop digital products with experience in a wide range of disciplines: leader, entrepreneur, web developer, analyst, testing, and more.
 
 Since beginning my journey as a freelance, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use.
 
