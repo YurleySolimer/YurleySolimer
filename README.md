@@ -6,7 +6,7 @@
 
 Hi, I'm Yurley Solimer. I'm a Software Engineer focused on creating, developing and maintaining digital products.
 
-I have a wide knowledge in technologies such as: React, Express, Nest, MongoDB, MySQL and I am currently learning React Native.
+I have a wide knowledge in technologies such as: React, Express, Nest, Django, Flask, MongoDB, MySQL, Postgres and I am currently learning about mobile development with React Native.
 
 I like to keep learning, keep challenging myself and doing interesting things to create a better world.
 
